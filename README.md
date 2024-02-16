@@ -7,3 +7,4 @@ However, you can find the base data, which are extracted 13F filings, from the a
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZRH3EU
 
 Code consists of functions and snippets to process this 13F filings data, stock information and stock price information, by linking them using stock tickers and CUSIP keys. In addition, processed data such as extracted motif counts, graph metrics etc. are also provided as csv files.
+![Uploading methodology_overview2 (2).png…]()
